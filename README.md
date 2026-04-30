@@ -28,7 +28,7 @@ The system simplifies assignment submission, storage, and tracking using a cloud
 ## Installation
 
 1. Clone the repository:
-    git clone https://github.com/kolibhumi/Abhyass.git
+    git clone https://github.com/kolibhumii/Abhyass.git
     cd Abhyass
 2. Configure Firebase:
 - Create a Firebase project  
